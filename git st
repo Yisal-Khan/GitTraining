@@ -1,0 +1,72 @@
+[33mcommit 326aa59dd4f4f0deeb667628c3bf8fa35af9b9ee[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:58:43 2018 +0500
+
+    Code that should be on both branches
+
+[33mcommit de8ae31a95425ee251f4f5c249a95321086ed790[m
+Merge: 3364527 4e3f5b8
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:57:54 2018 +0500
+
+    Fixed conflicts
+
+[33mcommit 4e3f5b88f611cd1e193305ff10c40a2da2ea4bbb[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:47:38 2018 +0500
+
+    Something place from testing branch before the master branch
+
+[33mcommit 33645271389b1e9f038ed59213a4e8cf115d9a6a[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:44:37 2018 +0500
+
+    Something is change in master branch
+
+[33mcommit 9ed42445bfe61f47d618c0790d0890fc23ada421[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:18:24 2018 +0500
+
+    Some change on testing branch
+
+[33mcommit af285391305d1879ddbaa83731cd20fa2e156618[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 18:16:43 2018 +0500
+
+    Some changes on master branch
+
+[33mcommit 066161a7b9b906497dd8b9c0bb4c871b532d7a55[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Wed Jan 24 17:29:57 2018 +0500
+
+    Inital Commit
+
+[33mcommit 0b00eb5c6cefa73aacd412e09e1f5d5380f0b6f9[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Tue Jan 23 19:04:23 2018 +0500
+
+    Changed text file
+
+[33mcommit a39bbb9ef67a147a05025504527a21929dfd59c1[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Tue Jan 23 18:56:41 2018 +0500
+
+    Added test file
+
+[33mcommit 54579be1876aeabf027bf62a3dd479e18ed0da87[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Tue Jan 23 18:39:54 2018 +0500
+
+    Added
+
+[33mcommit ef63d807abfb5aea60dd63fe14cb4ee48548c62b[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Tue Jan 23 18:14:20 2018 +0500
+
+    Added Text to README.txt
+
+[33mcommit d4f15e4c4b7250420970faa6ebfed40e74f5066c[m
+Author: Yisal Khan <yisal.khan@square63.com>
+Date:   Tue Jan 23 16:48:06 2018 +0500
+
+    Intialize the Repository
